@@ -1,6 +1,6 @@
 # Gatsby UI
 
-> ## [Shivam Shukla](https://ishivamshukla.in), [Megha Sharma](https://github.com/megha7sharma)
+> ## [Shivam Shukla](https://ishivamshukla.in)
 
 </br>
 
@@ -13,7 +13,6 @@
  -  ReactJS
  -  React-Bootstrap
  -  Youtube Embed
-
 
 ---
 
