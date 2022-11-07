@@ -6,6 +6,7 @@
 
 ## Using Technology -
  
+
  -  Gatsby
  -  Styled Components
  -  SASS
@@ -15,7 +16,6 @@
  -  Youtube Embed
 
 ---
-
 
 
 ## Layout
